@@ -1,8 +1,7 @@
 ---
-title: "Mobile"
 layout: archive
-permalink: categories/mobile
-
+permalink: mobile
+title: "Mobile"
 
 author_profile: true
 sidebar:

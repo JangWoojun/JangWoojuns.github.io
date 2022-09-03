@@ -1,8 +1,7 @@
 ---
-title: "Kotlin"
 layout: archive
-permalink: categories/kotlin
-
+permalink: kotlin
+title: "Kotlin"
 
 author_profile: true
 sidebar:

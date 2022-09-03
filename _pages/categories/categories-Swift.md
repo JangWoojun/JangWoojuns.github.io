@@ -1,8 +1,7 @@
 ---
-title: "Swift"
 layout: archive
-permalink: categories/swift
-
+permalink: swift
+title: "Swift"
 
 author_profile: true
 sidebar:
